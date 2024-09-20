@@ -1,7 +1,7 @@
-# Personal Portfolio ⚡️ 
+# Personal Portfolio of Izabella Yu⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> This repo is a clone from: https://varadbhogayata.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
