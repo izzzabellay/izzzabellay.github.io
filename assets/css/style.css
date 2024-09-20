@@ -528,6 +528,12 @@ a.hoverline:hover {
   position: relative;
 }
 
+#placetravelled a:not(.btn-floating) {
+  bottom: 6px;
+  left: 20px;
+  position: relative;
+}
+
 #experience .col.s12.m2 {
   text-align: center;
 }
@@ -684,6 +690,17 @@ small {
     bottom: initial;
   }
   #contact a.btn-floating.btn-large {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+  }
+  #placetravelled a:not(.btn-floating) {
+    text-align: center;
+    display: block;
+    left: initial;
+    bottom: initial;
+  }
+  #placetravelled a.btn-floating.btn-large {
     display: block;
     text-align: center;
     margin: 0 auto;
